@@ -13,6 +13,7 @@ namespace Tyuiu.KalininaMA.Sprint4.Task0.V2.Test
             int res =  ds.GetSumOddArrEl(array);
             int wait = 44;
             Assert.AreEqual(wait, res);
+
         }
     }
 }

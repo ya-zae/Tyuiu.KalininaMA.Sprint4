@@ -5,7 +5,6 @@ namespace Tyuiu.KalininaMA.Sprint4.Task0.V2.Lib
     {
         public int GetSumOddArrEl(int[] array)
         {
-            
             int c = 0;
             for (int i = 0; i < array.Length; i++)
             {
