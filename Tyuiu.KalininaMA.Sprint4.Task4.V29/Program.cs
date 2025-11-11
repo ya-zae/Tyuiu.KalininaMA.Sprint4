@@ -10,7 +10,7 @@ namespace Tyuiu.KalininaMA.Sprint4.Task4.V29
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема : Одномерные массивы. (ввод с клавиатуры)                          *");
+            Console.WriteLine("* Тема : Двумерные массивы. (ввод с клавиатуры)                          *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнила: Калинина Мария Александровна | Рппб-25-1                     *");
